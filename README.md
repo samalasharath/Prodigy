@@ -28,14 +28,6 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
    - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_03)
    - [Demo Link](https://tic-tac-toc-mridul.vercel.app/)
 
-4. **PRODIGY_WD_04 - Personal Portfolio Website**
-   </br></br>
-   <img alt="Personal Portfolio Website" src="https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_04/Images/readme-img1.png" />
-   - Description: This portfolio showcases my projects, skills, and experiences. Feel free to explore the different sections and projects!
-   - Technologies Used: React.js, JavaScript, CSS3, HTML, VsCode, Vercel
-   - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_04)
-   - [Demo Link](https://mridul0703.vercel.app/)
-
 5. **PRODIGY_WD_05 - Weather App**
     </br></br>
    <img alt="Weather App" src="https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_05/src/images/demo-image.png" />
