@@ -37,14 +37,3 @@ This Tic-Tac-Toe game was built using the following technologies:
 - Interactive gameplay
 - Restart game functionality
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-Feel free to reach out to me at [mridulmkumar07@gmail.com](mailto:mridulmkumar07@gmail.com) or visit my website <a href="https://mridul0703.vercel.app/" target="_blank">mridul.app</a> for more information.
-
-## Show your support
-
-Give a ⭐ if you like this game!
